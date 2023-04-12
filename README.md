@@ -35,7 +35,7 @@ O material aqui disponibilizado será útil para sua introdução ao mundo do de
 
 ## ROADMAP
 
-- [Introdução](https://github.com/lanjoni/crystal4noobs/tree/main/content/intro)
+- [Introdução](https://github.com/lanjoni/clojure4noobs/tree/main/content/intro)
  
 <!-- CONTRIBUTING -->
 
