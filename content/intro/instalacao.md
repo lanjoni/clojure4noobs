@@ -13,7 +13,7 @@ Teve algum problema com a instalação? Clique [aqui](https://clojure.org/guides
 
 ---
 
-## macOS
+### macOS
 
 A instalação do Clojure para o macOS é feita utilizando o gerenciador de pacotes [Homebrew](https://brew.sh/). Para realizar sua instalação utilize os seguintes comandos no terminal:
 
@@ -32,7 +32,7 @@ Para mais informações sobre a instalação do Clojure no macOS clique [aqui](h
 
 #
 
-## Windows
+### Windows
 
 Para a instalação do ambiente no Windows tenha certeza de que esteja utilizando o `PowerShell 5` ou superior, além do `.NET Core SDK 2.1+` ou `.NET Framework 4.5+`, além de obviamente ter o `Java 8+` instalado.
 
@@ -67,7 +67,7 @@ Caso tenha algum problema de instalação, basta clicar [aqui](https://github.co
 
 #
 
-## Linux
+### Linux
 
 As distribuições Linux no geral estão concentradas aqui pois o script de instalação é o mesmo! Caso você esteja utilizando o Homebrew como gerenciador de pacotes, basta utilizar o mesmo comando que o utilizado no macOS! Caso contrário, siga os passos abaixo.
 
