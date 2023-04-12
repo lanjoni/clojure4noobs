@@ -3,9 +3,9 @@
 Bom, se você chegou até aqui, quer dizer que realmente está interessado em dar continuidade nesse aprendizado! Agora vamos instalar e preparar nosso ambiente de desenvolvimento!
 
 ## Sistemas operacionais
-- macOS
-- Windows
-- Linux
+- [macOS](https://github.com/lanjoni/clojure4noobs/blob/main/content/intro/instalacao.md#macos)
+- [Windows](https://github.com/lanjoni/clojure4noobs/blob/main/content/intro/instalacao.md#windows)
+- [Linux](https://github.com/lanjoni/clojure4noobs/blob/main/content/intro/instalacao.md#linux)
 
 Teve algum problema com a instalação? Clique [aqui](https://clojure.org/guides/install_clojure) para acessar a documentação oficial de instalação!
 
