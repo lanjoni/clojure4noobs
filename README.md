@@ -36,6 +36,7 @@ O material aqui disponibilizado será útil para sua introdução ao mundo do de
 ## ROADMAP
 
 - [Introdução](https://github.com/lanjoni/clojure4noobs/tree/main/content/intro)
+  - [Instalação](https://github.com/lanjoni/clojure4noobs/tree/main/content/intro/instalacao.md)
  
 <!-- CONTRIBUTING -->
 
