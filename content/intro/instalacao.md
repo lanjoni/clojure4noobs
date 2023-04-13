@@ -83,6 +83,8 @@ $ sudo ./linux-install-1.11.1.1273.sh
 
 Depois de instalado o script `linux-install` pode ser removido. Caso tenha algum problema durante a instalação, basta clicar [aqui](https://clojure.org/guides/install_clojure#_linux_instructions) e seguir o guia oficial!
 
+> Caso queira instalar utilizando seu gerenciador de pacotes pasta procurar pelo pacote `clojure`!
+
 ---
 
 E aí, tudo instalado corretamente? É hora de termos o nosso primeiro contato com a linguagem!
