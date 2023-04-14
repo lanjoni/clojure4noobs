@@ -54,4 +54,39 @@ Agora, abra seu arquivo "core" e vamos dar uma olhada no que ele tem para oferec
   (println "Hello, World!"))
 ```
 
-Perceba 
+Perceba que temos a definição de um `main` a ser executado quando executarmos nosso projeto! Para executar basta utilizar `lein run` e será impresso uma mensagem "Hello, World!"! Legal não?
+
+Existem ainda diversas possibilidades ao se utilizar o Leiningen, por isso, durante nosso guia introdutório vamos utilizá-lo sempre que possível!
+
+## REPL
+
+Sim, o Leiningen oferece um "REPL" (Read-Eval-Print Loop) para ser utilizado, sendo útil para interação direta com uma interface de testes! Para executarmos basta utilizar o comando `lein repl` e você vai se deparar com uma tela parecida com essa:
+
+```sh
+nREPL server started on port 49654 on host 127.0.0.1 - nrepl://127.0.0.1:49654
+REPL-y 0.5.1, nREPL 1.0.0
+Clojure 1.11.1
+OpenJDK 64-Bit Server VM 19.0.2
+    Docs: (doc function-name-here)
+          (find-doc "part-of-name-here")
+  Source: (source function-name-here)
+ Javadoc: (javadoc java-object-or-class-here)
+    Exit: Control+D or (exit) or (quit)
+ Results: Stored in vars *1, *2, *3, an exception in *e
+
+test.core=>
+```
+
+Utilizando o "REPL" podemos ainda importar funções diretamente de nosso projeto e realizar diversos testes! Ainda conseguimos criar funções e testar possibilidades! Legal não?
+
+---
+
+Excelente! Tivemos nosso primeiro contato com o Leiningen! O que achou? Bora aprender alguns conceitos envolvendo a linguagem de programação Clojure?
+
+<p align="right">
+  <a href="https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos">Próximo -> Conceitos</a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/lanjoni/clojure4noobs#roadmap">Voltar para o menu principal</a>
+</p>
