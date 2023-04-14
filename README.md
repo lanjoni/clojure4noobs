@@ -39,6 +39,7 @@ O material aqui disponibilizado será útil para sua introdução ao mundo do de
   - [Instalação](https://github.com/lanjoni/clojure4noobs/tree/main/content/intro/instalacao.md)
   - [Hello World!](https://github.com/lanjoni/clojure4noobs/tree/main/content/intro/helloworld.md)
   - [Leiningen](https://github.com/lanjoni/clojure4noobs/tree/main/content/intro/leiningen.md)
+- [Conceitos](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos)
  
 <!-- CONTRIBUTING -->
 
