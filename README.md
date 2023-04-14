@@ -40,7 +40,7 @@ O material aqui disponibilizado será útil para sua introdução ao mundo do de
   - [Hello World!](https://github.com/lanjoni/clojure4noobs/tree/main/content/intro/helloworld.md)
   - [Leiningen](https://github.com/lanjoni/clojure4noobs/tree/main/content/intro/leiningen.md)
 - [Conceitos](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos)
-  
+  - [Estruturas de Dados](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/estruturas.md)
  
 <!-- CONTRIBUTING -->
 
