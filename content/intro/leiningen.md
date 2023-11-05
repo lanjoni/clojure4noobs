@@ -60,7 +60,7 @@ Existem ainda diversas possibilidades ao se utilizar o Leiningen, por isso, dura
 
 ## REPL
 
-Sim, o Leiningen oferece um "REPL" (Read-Eval-Print Loop) para ser utilizado, sendo útil para interação direta com uma interface de testes! Para executarmos basta utilizar o comando `lein repl` e você vai se deparar com uma tela parecida com essa:
+Sim, o Leiningen oferece um "REPL" (Read-Eval-Print Loop) para ser utilizado nativamente em seus projetos, sendo útil para interação direta com uma interface de testes, desenvolvimento com REPL dentre outras finalidades (acredite, sua produtividade e praticidade de desenvolvimento melhoram muito quando você torna o REPL seu amigo)! Para executarmos basta utilizar o comando `lein repl` e você vai se deparar com uma tela parecida com essa:
 
 ```sh
 nREPL server started on port 49654 on host 127.0.0.1 - nrepl://127.0.0.1:49654

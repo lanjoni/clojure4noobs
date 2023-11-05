@@ -4,7 +4,9 @@ Neste momento vamos entrar em alguns conceitos bem importantes para seu total co
 
 > **Funções** são passageiros de primeira classe, por isso, são tratados de forma exclusiva.
 
-Poderíamos dizer que tudo que temos em Clojure não passam de funções, que combinadas resultam no que temos hoje. 
+Poderíamos dizer que tudo que temos em Clojure não passam de funções, que combinadas (ou não) resultam em algum dado. Podemos ainda afirmar que em Clojure **dados também são tratados como passageiros de primeira classe**. Dados são dados de forma pura, assim, Clojure não trabalha (e não se importa) diretamente com *tipagem* assim como vemos em outras linguagens de programação.
+
+O intuito de Clojure não é tratar de tópicos relacionados a teoria de tipos ou algo do tipo, mas, ser uma linguagem de programação que trabalha diretamente com dados de maneira pura. Isso é sim um pouco filosófico e é muito do que vemos sendo atribuído e desenvolvido com Clojure.
 
 ## Sintaxe
 
@@ -15,6 +17,8 @@ O primeiro aspecto visual é o uso de parênteses para denotar um início de com
 ```clj
 (funcao argumento1 argumento2 argumento3 ...)
 ```
+
+Ao abrir os parênteses você *informa* que está começando uma função, nesse caso levando em consideração a sintaxe de Lisp, seria uma lista na qual o primeiro item é o nome da função seguido de seus argumentos, além de implementar tudo que deverá ser feito com aqueles argumentos (como foi apresentado anteriormente).
 
 Um exemplo interessante é a soma, na qual precisamos adicionar o sinal de forma prefixa, não no habituado infixo (na qual o sinal fica entre os argumentos), veja o exemplo:
 
@@ -34,7 +38,9 @@ user=> (/ (+ 6 2) 2)
 
 Independente da regra, a sintaxe e ordem é sempre a mesma, criando uma situação em que como tudo são funções é algo relativamente simples de se colocar em prática! Claro, no começo a gente acha estranho mesmo, mas, com o passar do tempo você vai se acostumar!
 
-## Variáveis
+## "*Variáveis*"
+
+Um tópico bem específico quando falamos de Clojure é sobre variáveis, mas, por qual motivo? Bem, não sei se poderíamos *chamar de variável* algo que não varia. Por padrão, Clojure implementa as váriaveis (apresentadas na documentação oficial no tópico [Vars](https://clojure.org/reference/vars)) como estruturas imutáveis, sendo utilizadas apenas para bindar algum valor em uma determinada palavra-chave (como se fosse uma função que não recebe parâmetros e retorna algo). Porém, para melhor praticidade e seu melhor compreendimento, vamos continuar chamando de variáveis, ok?
 
 As variáveis podem ser definidas utilizando a sintaxe `def` para uma variável, como no seguinte exemplo:
 
@@ -49,7 +55,7 @@ user=> (println "Olá" comunidade "!")
 Olá He4rt !
 nil
 ```
-> Não se preocupe com esse `nil`, afinal, ele só indica que o retorno da função é nulo (pois era uma simples função para imprimir valores)!
+> Não se preocupe com esse `nil`, afinal, ele só indica que o retorno da função é nulo (pois era uma simples função para imprimir valores). Em Clojure toda função possui um determinado retorno, mesmo que seja `nil`!
 
 Veja, apenas passamos uma lista de argumentos para a função `println` e foi impressa nossa mensagem! Legal não?
 

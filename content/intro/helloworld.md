@@ -4,7 +4,7 @@ Certo, agora é o momento de nosso primeiro contato com a linguagem de programa�
 
 ## Exibindo na tela
 
-Agora é o momento de você criar um arquivo com a extensão `.clj`! Eu chamei meu arquivo de `hello_world.clj`... Lembre-se que como Clojure funciona com a famosa JVM, logo, temos contato com praticamente todas as funções do Java!
+Agora é o momento de você criar um arquivo com a extensão `.clj`! Eu chamei meu arquivo de `hello_world.clj`... Lembre-se que como Clojure funciona com a famosa JVM, logo, temos contato com praticamente todas as funções do Java (sim, isso significa interoperabilidade)!
 
 Chega de papo e bora pro código, depois a gente vai repassar detalhe por detalhe de funcionamento, por isso, acalme-se! Observe o código abaixo:
 
