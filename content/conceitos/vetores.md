@@ -104,7 +104,7 @@ Bem, ao final você perceberá que a estrutura não foi modificada, permanecendo
 Gostou da forma de tratamento de vetores dentro de Clojure? O que acha de conhecer as listas?
 
 <p align="right">
-  <a href="https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/vetores.md">Próximo -> Listas</a>
+  <a href="https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/listas.md">Próximo -> Listas</a>
 </p>
 
 <p align="left">
