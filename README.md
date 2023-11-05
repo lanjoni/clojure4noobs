@@ -41,6 +41,11 @@ O material aqui disponibilizado será útil para sua introdução ao mundo do de
   - [Leiningen](https://github.com/lanjoni/clojure4noobs/tree/main/content/intro/leiningen.md)
 - [Conceitos](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos)
   - [Estruturas de Dados](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/estruturas.md)
+  - [Vetores](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/vetores.md)
+  - [Listas](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/listas.md)
+  - [Sets](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/sets.md)
+  - [Mapas](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/mapas.md)
+  - [Documentações](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/documentacoes.md)
  
 <!-- CONTRIBUTING -->
 
