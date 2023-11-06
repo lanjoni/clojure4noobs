@@ -53,6 +53,10 @@ O material aqui disponibilizado será útil para sua introdução ao mundo do de
   - [Cond](https://github.com/lanjoni/clojure4noobs/tree/main/content/condicionais/cond.md)
   - [Case](https://github.com/lanjoni/clojure4noobs/tree/main/content/condicionais/case.md)
 - [Estruturas de Repetição](https://github.com/lanjoni/clojure4noobs/tree/main/content/repeticao)
+  - [For](https://github.com/lanjoni/clojure4noobs/tree/main/content/repeticao/for.md)
+  - [Doseq](https://github.com/lanjoni/clojure4noobs/tree/main/content/repeticao/doseq.md)
+  - [Loop](https://github.com/lanjoni/clojure4noobs/tree/main/content/repeticao/loop.md)
+- [Funções](https://github.com/lanjoni/clojure4noobs/tree/main/content/funcoes)
  
 <!-- CONTRIBUTING -->
 
