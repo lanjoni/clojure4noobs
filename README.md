@@ -46,6 +46,8 @@ O material aqui disponibilizado será útil para sua introdução ao mundo do de
   - [Sets](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/sets.md)
   - [Mapas](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/mapas.md)
   - [Documentações](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/documentacoes.md)
+  - [Lógica](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/logica.md)
+- [Condicionais](https://github.com/lanjoni/clojure4noobs/tree/main/content/condicionais)
  
 <!-- CONTRIBUTING -->
 
