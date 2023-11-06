@@ -48,6 +48,11 @@ O material aqui disponibilizado será útil para sua introdução ao mundo do de
   - [Documentações](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/documentacoes.md)
   - [Lógica](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/logica.md)
 - [Condicionais](https://github.com/lanjoni/clojure4noobs/tree/main/content/condicionais)
+  - [If](https://github.com/lanjoni/clojure4noobs/tree/main/content/condicionais/if.md)
+  - [When](https://github.com/lanjoni/clojure4noobs/tree/main/content/condicionais/when.md)
+  - [Cond](https://github.com/lanjoni/clojure4noobs/tree/main/content/condicionais/cond.md)
+  - [Case](https://github.com/lanjoni/clojure4noobs/tree/main/content/condicionais/case.md)
+- [Estruturas de Repetição](https://github.com/lanjoni/clojure4noobs/tree/main/content/repeticao)
  
 <!-- CONTRIBUTING -->
 
