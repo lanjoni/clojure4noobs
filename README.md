@@ -57,6 +57,10 @@ O material aqui disponibilizado será útil para sua introdução ao mundo do de
   - [Doseq](https://github.com/lanjoni/clojure4noobs/tree/main/content/repeticao/doseq.md)
   - [Loop](https://github.com/lanjoni/clojure4noobs/tree/main/content/repeticao/loop.md)
 - [Funções](https://github.com/lanjoni/clojure4noobs/tree/main/content/funcoes)
+  - [Recursividade](https://github.com/lanjoni/clojure4noobs/tree/main/content/funcoes/recursividade.md)
+  - [Multimethods](https://github.com/lanjoni/clojure4noobs/tree/main/content/funcoes/multimethods.md)
+  - [Funções Anônimas](https://github.com/lanjoni/clojure4noobs/tree/main/content/funcoes/funcoes_anonimas.md)
+- [Manipulações](https://github.com/lanjoni/clojure4noobs/tree/main/content/manipulacoes)
  
 <!-- CONTRIBUTING -->
 
