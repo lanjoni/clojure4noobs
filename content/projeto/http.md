@@ -105,7 +105,7 @@ Incrível! Nosso servidor está pronto!
 Para executar nosso servidor, por favor, volte para a raiz do projeto e execute o seguinte comando:
 
 ```sh
-lein run
+$ lein run
 ```
 
 E você verá a mensagem que o servidor foi inicializado! Para testar basta abrir seu navegador e acessar `localhost:3000`!
