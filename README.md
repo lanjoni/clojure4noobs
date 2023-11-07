@@ -65,6 +65,8 @@ O material aqui disponibilizado será útil para sua introdução ao mundo do de
   - [Filter](https://github.com/lanjoni/clojure4noobs/tree/main/content/manipulacoes/filter.md)
   - [Reduce](https://github.com/lanjoni/clojure4noobs/tree/main/content/manipulacoes/reduce.md)
   - [Apply](https://github.com/lanjoni/clojure4noobs/tree/main/content/manipulacoes/apply.md)
+- [Projeto (Servidor HTTP)](https://github.com/lanjoni/clojure4noobs/tree/main/content/projeto/http.md)
+- [Finalização](https://github.com/lanjoni/clojure4noobs/tree/main/content/finalizacao/README.md)
  
 <!-- CONTRIBUTING -->
 
