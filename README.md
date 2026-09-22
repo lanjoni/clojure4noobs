@@ -1,6 +1,10 @@
 <!-- Logo 4noobs -->
 
 <p align="center">
+  <a href="./README.md">🇧🇷 Português</a> | <a href="./README.en.md">🇺🇸 English</a>
+</p>
+
+<p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
     <img src="./.github/header_4noobs.svg">
   </a>
@@ -35,38 +39,38 @@ O material aqui disponibilizado será útil para sua introdução ao mundo do de
 
 ## ROADMAP
 
-- [Introdução](https://github.com/lanjoni/clojure4noobs/tree/main/content/intro)
-  - [Instalação](https://github.com/lanjoni/clojure4noobs/tree/main/content/intro/instalacao.md)
-  - [Hello World!](https://github.com/lanjoni/clojure4noobs/tree/main/content/intro/helloworld.md)
-  - [Leiningen](https://github.com/lanjoni/clojure4noobs/tree/main/content/intro/leiningen.md)
-- [Conceitos](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos)
-  - [Estruturas de Dados](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/estruturas.md)
-  - [Vetores](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/vetores.md)
-  - [Listas](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/listas.md)
-  - [Sets](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/sets.md)
-  - [Mapas](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/mapas.md)
-  - [Documentações](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/documentacoes.md)
-  - [Lógica](https://github.com/lanjoni/clojure4noobs/tree/main/content/conceitos/logica.md)
-- [Condicionais](https://github.com/lanjoni/clojure4noobs/tree/main/content/condicionais)
-  - [If](https://github.com/lanjoni/clojure4noobs/tree/main/content/condicionais/if.md)
-  - [When](https://github.com/lanjoni/clojure4noobs/tree/main/content/condicionais/when.md)
-  - [Cond](https://github.com/lanjoni/clojure4noobs/tree/main/content/condicionais/cond.md)
-  - [Case](https://github.com/lanjoni/clojure4noobs/tree/main/content/condicionais/case.md)
-- [Estruturas de Repetição](https://github.com/lanjoni/clojure4noobs/tree/main/content/repeticao)
-  - [For](https://github.com/lanjoni/clojure4noobs/tree/main/content/repeticao/for.md)
-  - [Doseq](https://github.com/lanjoni/clojure4noobs/tree/main/content/repeticao/doseq.md)
-  - [Loop](https://github.com/lanjoni/clojure4noobs/tree/main/content/repeticao/loop.md)
-- [Funções](https://github.com/lanjoni/clojure4noobs/tree/main/content/funcoes)
-  - [Recursividade](https://github.com/lanjoni/clojure4noobs/tree/main/content/funcoes/recursividade.md)
-  - [Multimethods](https://github.com/lanjoni/clojure4noobs/tree/main/content/funcoes/multimethods.md)
-  - [Funções Anônimas](https://github.com/lanjoni/clojure4noobs/tree/main/content/funcoes/funcoes_anonimas.md)
-- [Manipulações](https://github.com/lanjoni/clojure4noobs/tree/main/content/manipulacoes)
-  - [Map](https://github.com/lanjoni/clojure4noobs/tree/main/content/manipulacoes/map.md)
-  - [Filter](https://github.com/lanjoni/clojure4noobs/tree/main/content/manipulacoes/filter.md)
-  - [Reduce](https://github.com/lanjoni/clojure4noobs/tree/main/content/manipulacoes/reduce.md)
-  - [Apply](https://github.com/lanjoni/clojure4noobs/tree/main/content/manipulacoes/apply.md)
-- [Projeto (Servidor HTTP)](https://github.com/lanjoni/clojure4noobs/tree/main/content/projeto/http.md)
-- [Finalização](https://github.com/lanjoni/clojure4noobs/tree/main/content/finalizacao/README.md)
+- [Introdução](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/intro)
+  - [Instalação](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/intro/instalacao.md)
+  - [Hello World!](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/intro/helloworld.md)
+  - [Leiningen](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/intro/leiningen.md)
+- [Conceitos](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/conceitos)
+  - [Estruturas de Dados](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/conceitos/estruturas.md)
+  - [Vetores](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/conceitos/vetores.md)
+  - [Listas](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/conceitos/listas.md)
+  - [Sets](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/conceitos/sets.md)
+  - [Mapas](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/conceitos/mapas.md)
+  - [Documentações](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/conceitos/documentacoes.md)
+  - [Lógica](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/conceitos/logica.md)
+- [Condicionais](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/condicionais)
+  - [If](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/condicionais/if.md)
+  - [When](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/condicionais/when.md)
+  - [Cond](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/condicionais/cond.md)
+  - [Case](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/condicionais/case.md)
+- [Estruturas de Repetição](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/repeticao)
+  - [For](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/repeticao/for.md)
+  - [Doseq](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/repeticao/doseq.md)
+  - [Loop](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/repeticao/loop.md)
+- [Funções](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/funcoes)
+  - [Recursividade](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/funcoes/recursividade.md)
+  - [Multimethods](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/funcoes/multimethods.md)
+  - [Funções Anônimas](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/funcoes/funcoes_anonimas.md)
+- [Manipulações](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/manipulacoes)
+  - [Map](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/manipulacoes/map.md)
+  - [Filter](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/manipulacoes/filter.md)
+  - [Reduce](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/manipulacoes/reduce.md)
+  - [Apply](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/manipulacoes/apply.md)
+- [Projeto (Servidor HTTP)](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/projeto/http.md)
+- [Finalização](https://github.com/lanjoni/clojure4noobs/tree/main/content/pt-br/finalizacao/README.md)
  
 <!-- CONTRIBUTING -->
 
@@ -84,6 +88,7 @@ são **extremamente apreciadas**
 ## Autores
 
 - **João Augusto Lissoni Lanjoni** - _Developer & Member of He4rt Developers_ - [@lanjoni](https://twitter.com/gutolanjoni)
+- **Isabela Caovila Baldim** - _Desenvolvedora e Artista_ - [GitHub @ContagiousMisfit](https://github.com/ContagiousMisfit) · [Instagram @isa_de_jesus.png](https://www.instagram.com/isa_de_jesus.png/)
 
 ---
 
